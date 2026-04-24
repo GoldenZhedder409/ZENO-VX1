@@ -19,11 +19,11 @@
 > DISCLAIMER: This tool is for Educational Purposes Only. Unauthorized use against third-party systems is illegal and may result in criminal charges. The author and distributor assume no liability for misuse of this software.
 >
 🚀 Key Features
-Multi-Vector Attack Simulation: Supports TCP, UDP, HTTP, SYN flooding, and Slowloris.
-Adaptive Rate Control: Dynamically adjusts packet delay based on success/fail rates to bypass basic filtering.
-Advanced Proxy Rotator: Supports automatic proxy health checks and rotation from proxy.txt (HTTP/HTTPS/SOCKS5).
-High Efficiency: Built with Golang goroutines for lightweight, high-speed execution compared to Python.
-Real-time Analytics: Integrated monitor displaying PPS (Packets Per Second), active proxies, and adaptive delay metrics.
+* Multi-Vector Attack Simulation: Supports TCP, UDP, HTTP, SYN flooding, and Slowloris.
+* Adaptive Rate Control: Dynamically adjusts packet delay based on success/fail rates to bypass basic filtering.
+* Advanced Proxy Rotator: Supports automatic proxy health checks and rotation from proxy.txt (HTTP/HTTPS/SOCKS5).
+* High Efficiency: Built with Golang goroutines for lightweight, high-speed execution compared to Python.
+* Real-time Analytics: Integrated monitor displaying PPS (Packets Per Second), active proxies, and adaptive delay metrics.
 
 ---
 
