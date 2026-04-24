@@ -49,7 +49,7 @@ Prerequisites
 ---
 
 ### 🔗 How to run 🚀
-* Copy "" at your Terminal
+* Copy "https://github.com/GoldenZhedder409/ZENO-VX1.git" at your Terminal
 * Contents of proxy.txt
 * Run with command "ZENO-VX1"
 * Fill with your target
