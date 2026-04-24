@@ -36,16 +36,26 @@ Real-time Analytics: Integrated monitor displaying PPS (Packets Per Second), act
 | HTTP Test  | Generates repeated HTTP requests         |
 | Conn Test  | Rapid open/close connection simulation   |
 | Slow Test  | Simulates long-lived connections         |
-|------------|------------------------------------------|
 
 ---
 
 ### 🔗 Requirement 📋
 Prerequisites
-Go (Golang) 1.18 or higher.
-proxy.txt (Optional: for proxy rotation mode).
-Root/Administrator privileges (for optimal socket performance on some OS).
-OS: Linux (Ubuntu/Debian recommended), Windows, or macOS.
+* Go (Golang) 1.18 or higher.
+* proxy.txt (Optional: for proxy rotation mode).
+* Root/Administrator privileges (for optimal socket performance on some OS).
+* OS: Linux (Ubuntu/Debian recommended), Windows, or macOS.
 
 ---
 
+### 🔗 How to run 🚀
+* Copy "" at your Terminal
+* Contents of proxy.txt
+* Run with command "ZENO-VX1"
+* Fill with your target
+
+---
+
+### Support us!! 💰
+You can support this small project by donating to our **Monero** account
+"83EzZCumdrRHcHF4pLd4uJ6hHpzwB81eXKfJktn6s4PQ8gZSqjtuZEsTSksDXdhn2jQp8pD2fiE1GTf5ysWBZWh867FCNBC"
