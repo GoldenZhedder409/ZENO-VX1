@@ -1,3 +1,1 @@
-210.223.44.230:3128
-45.153.231.229:8080
-187.102.219.42:999
+## Please fill in your proxy, this is your troop that disguises your real IP (Don't forget to donate if you want)
